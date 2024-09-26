@@ -9,7 +9,6 @@ I am a web developer with more then 8 years of experience in creating and mainta
 * 🌍  I'm based in Altenburg
 * 🖥️  See my portfolio at [my Website](http://joerg-schoeneburg.de)
 * ✉️  You can contact me at [info@joerg-schoeneburg.de](mailto:info@joerg-schoeneburg.de)
-* 🧠  I'm learning React and NextJS
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
